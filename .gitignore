@@ -1,0 +1,11 @@
+node_modules
+jspm_packages
+
+package-lock.json
+secrets.prod.json
+
+.DS_STORE
+
+# Serverless directories
+.serverless
+.dynamodb
